@@ -1,7 +1,7 @@
 # Tmux
 
 ## Tmux Resurrect
-
+[https://github.com/tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)
 ### Usage
 #### Restore
 prefix + Ctrl-r - restore
@@ -11,6 +11,7 @@ prefix + Ctrl-s - save
 
 
 ## Tmux Plugin Manager (TPM)
+[https://github.com/tmux-plugins/tpm](https://github.com/tmux-plugins/tpm)
 ### Key bindings
 
 `prefix` + <kbd>I</kbd>
