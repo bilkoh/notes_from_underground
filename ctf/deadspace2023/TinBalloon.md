@@ -9,7 +9,7 @@ there are two files
 I listened the mp3. It's stairway to heaven and I left it playing. Heard some weird glitches during parts of the song.
 
 Opened it up in Sonic Virtualizer. Add Spectographic layer and found this:
-![A local image](mp3 msg.jpg)
+![A local image](mp3msg.jpg)
 
 `Gr33dK1Lzz@11Wh0Per5u3`
 
